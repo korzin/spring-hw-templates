@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package hello;
+package com.korzin.springtemplate;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
